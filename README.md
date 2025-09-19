@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Rembuluwani Masia
 
-![Profile Banner](https://img.shields.io/badge/QA_Engineer-Software_Testing-blue)
-![Profile Banner](https://img.shields.io/badge/Automation-Enthusiast-green)
-![Profile Banner](https://img.shields.io/badge/JavaScript-Learner-yellow)
+
 
 ---
 
@@ -49,4 +47,4 @@ I love ensuring software quality and building frameworks that make testing easie
 
 ---
 
-![Rembuluwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
